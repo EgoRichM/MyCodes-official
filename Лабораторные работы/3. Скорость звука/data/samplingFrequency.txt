@@ -1,1 +1,2 @@
+samplingFrequency
 100000
